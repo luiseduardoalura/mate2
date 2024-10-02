@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Mtematica',
+    'Matematica',
     'Qual é o valor de π (pi) aproximado? ' ,
     'Qual é o valor de π (pi) aproximado? ' ,
 )
